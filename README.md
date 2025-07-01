@@ -16,6 +16,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b990ec3d-e4b0-4425-a482-532f5623e91f/deploy-status)](https://job-application-form-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-job-application-form&left_text=repo%20views)
 
 ## ℹ️ A Simple Landing Page for a Job Application Form
 
