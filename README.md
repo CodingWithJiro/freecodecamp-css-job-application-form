@@ -1,4 +1,4 @@
-# 💻 Job Application Form
+# Job Application Form
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,17 +18,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-job-application-form&left_text=repo%20views)
 
-## ℹ️ A Simple Landing Page for a Job Application Form
+## A Simple Landing Page for a Job Application Form
 
 ![Screenshot of the project](./screenshot.png)
 
 This project is a **simple yet fully functional job application form** built with HTML and CSS. It includes form controls, radio buttons, a select dropdown, text area, and form validation to collect job applicant details.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This form-based project is designed to simulate a typical job application process, where users can fill out their name, email, job position, availability, and a short motivation message.  
 It demonstrates proper semantic markup, organized form structure, focus states, field validation, and responsiveness on smaller devices.
@@ -37,7 +37,7 @@ The background uses a colorful radial gradient setup that enhances the aesthetic
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic HTML5 form elements
 - Custom-styled radio group using CSS Grid
@@ -51,7 +51,7 @@ The background uses a colorful radial gradient setup that enhances the aesthetic
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure a semantic and accessible HTML form
 - Styling `fieldset` and radio inputs using CSS Grid
@@ -63,7 +63,7 @@ The background uses a colorful radial gradient setup that enhances the aesthetic
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -73,23 +73,23 @@ The background uses a colorful radial gradient setup that enhances the aesthetic
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://job-application-form-fcc-jiro.netlify.app//)
+Or you can check out the **[live website here](https://job-application-form-fcc-jiro.netlify.app//)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
